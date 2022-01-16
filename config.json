@@ -1,9 +1,9 @@
 {
- "ip": "play_LH12.aternos.me",
- "port": "22725",
+ "ip": "JoinLH.aternos.me",
+ "port": "48392",
  "name": "NarutoFake",
  "auto-night-skip": "false",
- "loginmsg": "Your_Login_message_here",
+ "loginmsg": "",
  "prefix": "!",
- "version": "1.17.1"
+ "version": "1.18"
 }
